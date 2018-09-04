@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="93a5bc49-481a-4a19-b9d0-8c0e6fe3b3a1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vi.md" beforeDir="false" afterPath="$PROJECT_DIR$/vi.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/vi.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="69">
-                <caret line="531" column="13" lean-forward="true" selection-start-line="531" selection-start-column="13" selection-end-line="531" selection-end-column="13" />
+              <first_editor relative-caret-position="9">
+                <caret line="527" lean-forward="true" selection-start-line="527" selection-end-line="527" />
               </first_editor>
               <second_editor />
             </state>
@@ -48,9 +47,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="27" />
-    <option name="width" value="1356" />
-    <option name="height" value="706" />
+    <option name="y" value="-2" />
+    <option name="width" value="1366" />
+    <option name="height" value="770" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -105,7 +104,7 @@
       <workItem from="1535901094348" duration="2581000" />
       <workItem from="1535967180010" duration="1033000" />
       <workItem from="1535969580240" duration="11000" />
-      <workItem from="1536021821491" duration="11773000" />
+      <workItem from="1536021821491" duration="12825000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1535714936835</created>
@@ -121,11 +120,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535715381151</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Init">
+      <created>1536035926033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536035926033</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17691000" />
+    <option name="totallyTimeSpent" value="18743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="708" extended-state="6" />
@@ -140,7 +146,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.45217392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33043477" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33043477" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -253,8 +259,8 @@
     <entry file="file://$PROJECT_DIR$/vi.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="69">
-            <caret line="531" column="13" lean-forward="true" selection-start-line="531" selection-start-column="13" selection-end-line="531" selection-end-column="13" />
+          <first_editor relative-caret-position="9">
+            <caret line="527" lean-forward="true" selection-start-line="527" selection-end-line="527" />
           </first_editor>
           <second_editor />
         </state>
