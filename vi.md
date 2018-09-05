@@ -360,7 +360,7 @@ Nếu bạn học từ Execution Context, Global Memory và Call Stack, tiếp t
 
 Đặc biệt, sự hiểu biết về Call Stack là cực kì quan trọng.
 
-Tất cả các loại Javascript sẽ bắt đầu có ý nghĩa khi bạn hình dung ra nó: cuối cùng bạn sẽ hiểu **tại sao Javascript lại bất đòng bộ** và tại sao chúng ta cần Callback.
+Tất cả các loại Javascript sẽ bắt đầu có ý nghĩa khi bạn hình dung ra nó: cuối cùng bạn sẽ hiểu **tại sao Javascript lại bất đồng bộ** và tại sao chúng ta cần Callback.
 
 Bạn đã biết **Cái gì đằng sau 4 dòng code Javascript**?
 
